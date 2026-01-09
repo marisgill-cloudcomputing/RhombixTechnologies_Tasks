@@ -1,0 +1,7 @@
+Sample Application
+
+This file simulates a simple application used for Git and GitHub practice.
+
+Feature: User Authentication
+Status: Completed
+Security check implemented for user login
